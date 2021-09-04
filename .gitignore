@@ -1,0 +1,12 @@
+#Carpetas Debug de cada proyecto
+Libro_JC/Capitulo_1/Debug/
+Libro_JC/Capitulo_2/Debug/
+Libro_JC/Capitulo_3/Debug/
+Libro_JC/Capitulo_4/Debug/
+Libro_JC/Capitulo_5/Debug/
+
+#Proyecto prueba
+prueba/
+
+#OpenCV
+Camara/
