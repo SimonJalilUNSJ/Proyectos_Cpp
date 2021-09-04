@@ -1,0 +1,10 @@
+%YAML:1.0
+---
+umbralMax: 168000.
+umbralMin: 112000.
+thresh1: 85
+Ordenacion Fecha Mayor a Menor: 1
+Ordenacion Fecha Menor a Mayor: 2
+Ordenacion por fecha Mayor a Menor: 3
+Ordenacion por fecha Menor a Mayor: 4
+Ordenacion: 1
