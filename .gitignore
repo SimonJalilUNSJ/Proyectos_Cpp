@@ -10,7 +10,7 @@ prueba/
 
 #OpenCV
 Camara/
-Proyecto_Final/Debug/
-Proyecto_Final/Release/
-.cproject
-.project
+Proyecto_Final/ProyectoFinal/Debug/
+Proyecto_Final/ProyectoFinal/Release/
+Proyecto_Final/ProyectoFinal/.cproject
+Proyecto_Final/ProyectoFinal/.project
